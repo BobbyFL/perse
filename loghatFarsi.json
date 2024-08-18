@@ -7,7 +7,7 @@
         {"word": "سامان", "direction": "horizontal", "startX": 5, "startY": 0},
         {"word": "سازمان", "direction": "vertical", "startX": 5, "startY": 0},
         {"word": "ناسزا", "direction": "vertical", "startX": 1, "startY": 0},
-        {"word": "ناز", "direction": "horizontal", "startX": 0, "startY": 5}
+        {"word": "ناز", "direction": "horizontal", "startX": 5, "startY": 5}
       ]
     },
     {
