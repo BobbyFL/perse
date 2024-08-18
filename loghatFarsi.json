@@ -2,12 +2,12 @@
   "levels": [
     {
       "levelNumber": 1,
-      "selected": "TABLE",
+      "selected": "سازمان",
       "words": [
-        {"word": "TABLE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "TAB", "direction": "vertical", "startX": 3, "startY": 0},
-        {"word": "LAB", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "TALE", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "سامان", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "نماز", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "زن", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "سازمان", "direction": "vertical", "startX": 1, "startY": 2}
       ]
     },
     {
