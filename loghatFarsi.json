@@ -8,6 +8,7 @@
         {"word": "اسان", "direction": "horizontal", "startX": 3, "startY": 4},
         {"word": "زن", "direction": "horizontal", "startX": 5, "startY": 2},
         {"word": "سازمان", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "از", "direction": "vertical", "startX": 3, "startY": 4},
         {"word": "ناسزا", "direction": "vertical", "startX": 1, "startY": 0},
         {"word": "ناز", "direction": "horizontal", "startX": 5, "startY": 5}
       ]
