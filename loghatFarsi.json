@@ -14,12 +14,18 @@
     },
     {
       "levelNumber": 2,
-      "selected": "APPLE",
+      "selected": "کاروان",
       "words": [
-        {"word": "APPLE", "direction": "horizontal", "startX": 0, "startY": 3},
-        {"word": "APE", "direction": "vertical", "startX": 0, "startY": 3},
-        {"word": "PAL", "direction": "vertical", "startX": 2, "startY": 3},
-        {"word": "PEAL", "direction": "vertical", "startX": 3, "startY": 0}
+        {"word": "کارون", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "رک", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "ان", "direction": "horizontal", "startX": 3, "startY": 4},
+        {"word": "ور", "direction": "horizontal", "startX": 5, "startY": 3},
+        {"word": "کر", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "کاروان", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "را", "direction": "horizontal", "startX": 3, "startY": 0},
+        {"word": "اراک", "direction": "vertical", "startX": 0, "startY": 1},
+        {"word": "او", "direction": "vertical", "startX": 3, "startY": 4},
+        {"word": "نر", "direction": "vertical", "startX": 1, "startY": 2}
       ]
     },
     { 
