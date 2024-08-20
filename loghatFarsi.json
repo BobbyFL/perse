@@ -31,12 +31,15 @@
     },
     { 
       "levelNumber": 3,
-      "selected": "HOUSE",
+      "selected": "دبستان",
       "words": [
-        {"word": "HOUSE", "direction": "horizontal", "startX": 0, "startY": 2},
-        {"word": "HUE", "direction": "vertical", "startX": 0, "startY": 2},
-        {"word": "USE", "direction": "vertical", "startX": 2, "startY": 2}
-        
+        {"word": "دبستان", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "تن", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "ان", "direction": "horizontal", "startX": 3, "startY": 4},
+        {"word": "دست", "direction": "horizontal", "startX": 3, "startY": 4},
+        {"word": "ساتن", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "ناب", "direction": "vertical", "startX": 4, "startY": 2},
+        {"word": "بستان", "direction": "horizontal", "startX": 1, "startY": 2}       
       ]
     },
     {
