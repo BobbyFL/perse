@@ -77,12 +77,17 @@
     },
     {
       "levelNumber": 6,
-      "selected": "WATER",
+      "selected": "برفروب",
       "words": [
-        {"word": "WATER", "direction": "horizontal", "startX": 0, "startY": 1},
-        {"word": "WAR", "direction": "vertical", "startX": 0, "startY": 1},
-        {"word": "ARE", "direction": "vertical", "startX": 4, "startY": 0},
-        {"word": "TAR", "direction": "vertical", "startX": 2, "startY": 1}
+        {"word": "روب", "direction": "horizontal", "startX": 2, "startY": 0},
+        {"word": "رب", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "فور", "direction": "vertical", "startX": 5, "startY": 2},
+        {"word": "بور", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "برفروب", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "بر", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "ور", "direction": "vertical", "startX": 3, "startY": 4},
+        {"word": "بو", "direction": "horizontal", "startX": 1, "startY": 4},
+        {"word": "برف", "direction": "horizontal", "startX": 2, "startY": 2}  
       ]
     },
     {
