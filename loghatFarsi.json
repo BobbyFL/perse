@@ -92,11 +92,19 @@
     },
     {
       "levelNumber": 7,
-      "selected": "FLAGS",
+      "selected": "فرزانه",
       "words": [
-        {"word": "FLAG", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "LAG", "direction": "vertical", "startX": 2, "startY": 2},
-        {"word": "GAS", "direction": "vertical", "startX": 4, "startY": 2}
+        {"word": "فرزانه", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "زار", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "راز", "direction": "horizontal", "startX": 2, "startY": 2},
+        {"word": "رها", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "زرافه", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "نار", "direction": "vertical", "startX": 4, "startY": 3},
+        {"word": "فن", "direction": "horizontal", "startX": 5, "startY": 3},
+        {"word": "هار", "direction": "horizontal", "startX": 5, "startY": 4},
+        {"word": "اه", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "را", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "اره", "direction": "horizontal", "startX": 2, "startY": 5}
       ]
     },
     {
