@@ -46,12 +46,17 @@
     },
     {
       "levelNumber": 4,
-      "selected": "CHAIR",
+      "selected": "هودمرا",
       "words": [
-        {"word": "CHAIR", "direction": "horizontal", "startX": 0, "startY": 1},
-        {"word": "CAR", "direction": "vertical", "startX": 0, "startY": 1},
-        {"word": "AIR", "direction": "vertical", "startX": 2, "startY": 1},
-        {"word": "ARC", "direction": "vertical", "startX": 4, "startY": 0}
+        {"word": "درهم", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "هدر", "direction": "vertical", "startX": 1, "startY": 1},
+        {"word": "وام", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "وارد", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "دوام", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "مراوده", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "ارم", "direction": "horizontal", "startX": 2, "startY": 3},
+        {"word": "در", "direction": "vertical", "startX": 5, "startY": 4},
+        {"word": "رود", "direction": "horizontal", "startX": 5, "startY": 5}  
       ]
     },
     {
