@@ -109,11 +109,19 @@
     },
     {
       "levelNumber": 8,
-      "selected": "MARCH",
+      "selected": "کیتشاه",
       "words": [
-        {"word": "MARCH", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "ARCH", "direction": "vertical", "startX": 3, "startY": 1},
-        {"word": "CHAR", "direction": "vertical", "startX": 5, "startY": 1}
+        {"word": "تیک", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "کشتیها", "direction": "horizontal", "startX": 5, "startY": 4},
+        {"word": "اه", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "شته", "direction": "horizontal", "startX": 3, "startY": 1},
+        {"word": "یک", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "اهک", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "تا", "direction": "vertical", "startX": 3, "startY": 4},
+        {"word": "کت", "direction": "vertical", "startX": 5, "startY": 4},
+        {"word": "کش", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "تهی", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "شاه", "direction": "vertical", "startX": 0, "startY": 3}
       ]
     },
     {
