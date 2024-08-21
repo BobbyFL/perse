@@ -140,11 +140,19 @@
     },
     {
       "levelNumber": 10,
-      "selected": "PARTS",
+      "selected": "شهریور",
       "words": [
-        {"word": "PARTS", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "STAR", "direction": "vertical", "startX": 5, "startY": 2},
-         {"word": "RATS", "direction": "vertical", "startX": 3, "startY": 2}
+        {"word": "رویش", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "شهریور", "direction": "horizontal", "startX": 5, "startY": 4},
+        {"word": "ره", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "هر", "direction": "horizontal", "startX": 3, "startY": 1},
+        {"word": "ریش", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "شرور", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "شور", "direction": "horizontal", "startX": 3, "startY": 4},
+        {"word": "روی", "direction": "horizontal", "startX": 5, "startY": 4},
+        {"word": "ورشو", "direction": "horizontal", "startX": 3, "startY": 0},
+        {"word": "هش", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "شرر", "direction": "horizontal", "startX": 0, "startY": 3}
       ]
     },
     {
