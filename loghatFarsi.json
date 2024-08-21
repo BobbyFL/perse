@@ -128,14 +128,14 @@
       "levelNumber": 9,
       "selected": "مزاحمت",
       "words": [
-        {"word": "مزاحمت", "direction": "horizontal", "startX": 3, "startY": 0},
+        {"word": "مزاحمت", "direction": "vertical", "startX": 3, "startY": 0},
         {"word": "حازم", "direction": "horizontal", "startX": 3, "startY": 3},
         {"word": "مزاحم", "direction": "vertical", "startX": 5, "startY": 0},
         {"word": "ازا", "direction": "horizontal", "startX": 5, "startY": 2},
         {"word": "مزمت", "direction": "horizontal", "startX": 5, "startY": 4},
-        {"word": "اتم", "direction": "horizontal", "startX": 2, "startY": 3},
+        {"word": "اتم", "direction": "vertical", "startX": 2, "startY": 3},
         {"word": "تمام", "direction": "horizontal", "startX": 3, "startY": 5},
-        {"word": "تم", "direction": "horizontal", "startX": 0, "startY": 2},
+        {"word": "تم", "direction": "vertical", "startX": 0, "startY": 2},
         {"word": "ماتم", "direction": "horizontal", "startX": 3, "startY": 0}
       ]
     },
