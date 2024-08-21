@@ -130,7 +130,7 @@
       "words": [
         {"word": "مزاحمت", "direction": "horizontal", "startX": 3, "startY": 0},
         {"word": "حازم", "direction": "horizontal", "startX": 3, "startY": 3},
-        {"word": "مزاحم", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "مزاحم", "direction": "vertical", "startX": 5, "startY": 0},
         {"word": "ازا", "direction": "horizontal", "startX": 5, "startY": 2},
         {"word": "مزمت", "direction": "horizontal", "startX": 5, "startY": 4},
         {"word": "اتم", "direction": "horizontal", "startX": 2, "startY": 3},
