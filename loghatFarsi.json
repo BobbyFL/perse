@@ -216,7 +216,7 @@
         {"word": "گاز", "direction": "horizontal", "startX": 4, "startY": 2},
         {"word": "گر", "direction": "vertical", "startX": 5, "startY": 4},
         {"word": "راگو", "direction": "vertical", "startX": 4, "startY": 0},
-        {"word": "زرگر", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "زرگر", "direction": "horizontal", "startX": 5, "startY": 0}
       ]
     },
     {
