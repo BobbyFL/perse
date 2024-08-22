@@ -165,7 +165,7 @@
         {"word": "است", "direction": "horizontal", "startX": 5, "startY": 4},
         {"word": "تک", "direction": "horizontal", "startX": 5, "startY": 2},
         {"word": "سا", "direction": "horizontal", "startX": 5, "startY": 1},
-        {"word": "استکان", "direction": "vertical", "startX": 5, "startY": 0}
+        {"word": "استکان", "direction": "vertical", "startX": 5, "startY": 0},
         {"word": "اتن", "direction": "vertical", "startX": 0, "startY": 2},
         {"word": "ناس", "direction": "vertical", "startX": 1, "startY": 2},
         {"word": "نا", "direction": "horizontal", "startX": 1, "startY": 2},
