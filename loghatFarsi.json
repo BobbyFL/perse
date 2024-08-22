@@ -254,6 +254,7 @@
         {"word": "رس", "direction": "horizontal", "startX": 1, "startY": 4},
         {"word": "سمت", "direction": "horizontal", "startX": 2, "startY": 5},
         {"word": "راست", "direction": "vertical", "startX": 0, "startY": 2},
+        {"word": "فر", "direction": "vertical", "startX": 4, "startY": 4},
         {"word": "رفت", "direction": "horizontal", "startX": 5, "startY": 4}
       ]
     },
