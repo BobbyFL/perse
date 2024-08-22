@@ -150,7 +150,6 @@
         {"word": "شرور", "direction": "vertical", "startX": 5, "startY": 1},
         {"word": "شور", "direction": "horizontal", "startX": 5, "startY": 1},
         {"word": "روی", "direction": "vertical", "startX": 4, "startY": 0},
-        {"word": "ورشو", "direction": "vertical", "startX": 3, "startY": 0},
         {"word": "هش", "direction": "vertical", "startX": 4, "startY": 4},
         {"word": "شرر", "direction": "horizontal", "startX": 2, "startY": 5}
       ]
