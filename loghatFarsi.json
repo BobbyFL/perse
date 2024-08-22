@@ -232,7 +232,7 @@
         {"word": "سرفراز", "direction": "horizontal", "startX": 5, "startY": 1},
         {"word": "راز", "direction": "vertical", "startX": 1, "startY": 0},
         {"word": "سزار", "direction": "vertical", "startX": 0, "startY": 0},
-        {"word": "فاز", "direction": "vertical", "startX": 2, "startY": 3},
+        {"word": "فاز", "direction": "vertical", "startX": 2, "startY": 3}, 
         {"word": "زا", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "فر", "direction": "vertical", "startX": 5, "startY": 4},
         {"word": "سر", "direction": "vertical", "startX": 3, "startY": 4},
