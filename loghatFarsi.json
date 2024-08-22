@@ -159,17 +159,17 @@
       "levelNumber": 11,
       "selected": "استکان",
       "words": [
-        {"word": "ساک", "direction": "horizontal", "startX": 5, "startY": 2},
-        {"word": "نکات", "direction": "horizontal", "startX": 5, "startY": 1},
-        {"word": "نت", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "ساک", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "نکات", "direction": "horizontal", "startX": 3, "startY": 3},
+        {"word": "نت", "direction": "vertical", "startX": 3, "startY": 3},
         {"word": "است", "direction": "horizontal", "startX": 5, "startY": 4},
-        {"word": "تک", "direction": "horizontal", "startX": 1, "startY": 1},
-        {"word": "سا", "direction": "horizontal", "startX": 5, "startY": 2},
-        {"word": "استکان", "direction": "horizontal", "startX": 2, "startY": 5}
-        {"word": "اتن", "direction": "horizontal", "startX": 3, "startY": 0},
-        {"word": "ناس", "direction": "horizontal", "startX": 4, "startY": 0},
-        {"word": "نا", "direction": "horizontal", "startX": 4, "startY": 4},
-        {"word": "اسان", "direction": "horizontal", "startX": 4, "startY": 4}
+        {"word": "تک", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "سا", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "استکان", "direction": "vertical", "startX": 5, "startY": 0}
+        {"word": "اتن", "direction": "vertical", "startX": 0, "startY": 2},
+        {"word": "ناس", "direction": "vertical", "startX": 1, "startY": 2},
+        {"word": "نا", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "اسان", "direction": "horizontal", "startX": 5, "startY": 0}
       ]
     },
     {
