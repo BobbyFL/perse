@@ -194,7 +194,7 @@
       "words": [
         {"word": "کاوشگر", "direction": "horizontal", "startX": 5, "startY": 1},
         {"word": "اکو", "direction": "vertical", "startX": 5, "startY": 0},
-        {"word": "کشور", "direction": "vertical", "startX": 1, "startY": 4},
+        {"word": "کشور", "direction": "vertical", "startX": 2, "startY": 0},
         {"word": "شور", "direction": "horizontal", "startX": 3, "startY": 2},
         {"word": "راش", "direction": "horizontal", "startX": 2, "startY": 3},
         {"word": "شکر", "direction": "horizontal", "startX": 5, "startY": 4},
