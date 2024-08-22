@@ -142,17 +142,17 @@
       "levelNumber": 10,
       "selected": "شهریور",
       "words": [
-        {"word": "رویش", "direction": "horizontal", "startX": 5, "startY": 0},
-        {"word": "شهریور", "direction": "horizontal", "startX": 5, "startY": 4},
-        {"word": "ره", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "هر", "direction": "horizontal", "startX": 3, "startY": 1},
+        {"word": "رویش", "direction": "horizontal", "startX": 4, "startY": 0},
+        {"word": "شهریور", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "ره", "direction": "horizontal", "startX": 5, "startY": 4},
+        {"word": "هر", "direction": "horizontal", "startX": 1, "startY": 1},
         {"word": "ریش", "direction": "horizontal", "startX": 5, "startY": 2},
-        {"word": "شرور", "direction": "horizontal", "startX": 1, "startY": 0},
-        {"word": "شور", "direction": "horizontal", "startX": 3, "startY": 4},
-        {"word": "روی", "direction": "horizontal", "startX": 5, "startY": 4},
-        {"word": "ورشو", "direction": "horizontal", "startX": 3, "startY": 0},
-        {"word": "هش", "direction": "horizontal", "startX": 5, "startY": 0},
-        {"word": "شرر", "direction": "horizontal", "startX": 0, "startY": 3}
+        {"word": "شرور", "direction": "vertical", "startX": 5, "startY": 1},
+        {"word": "شور", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "روی", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "ورشو", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "هش", "direction": "vertical", "startX": 4, "startY": 4},
+        {"word": "شرر", "direction": "horizontal", "startX": 2, "startY": 5}
       ]
     },
     {
