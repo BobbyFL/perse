@@ -177,7 +177,7 @@
       "selected": "پروانه",
       "words": [
         {"word": "پروانه", "direction": "vertical", "startX": 1, "startY": 0},
-        {"word": "پونه", "direction": "horizontal", "startX": 4, "startY": 5}
+        {"word": "پونه", "direction": "horizontal", "startX": 4, "startY": 5},
         {"word": "هو", "direction": "vertical", "startX": 3, "startY": 4},
         {"word": "نو", "direction": "horizontal", "startX": 1, "startY": 4},
         {"word": "پروا", "direction": "horizontal", "startX": 3, "startY": 2},
