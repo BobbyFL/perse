@@ -222,12 +222,21 @@
     },
     {
       "levelNumber": 15,
-      "selected": "GRAPE",
+      "selected": "سرفراز",
       "words": [ 
-        {"word": "GRAPE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "PEAR", "direction": "vertical", "startX": 5, "startY": 1},
-        {"word": "EAR", "direction": "horizontal", "startX": 2, "startY": 5},
-        {"word": "RAGE", "direction": "vertical", "startX": 2, "startY": 2}
+        {"word": "رز", "direction": "horizontal", "startX": 3, "startY": 5},
+        {"word": "فار", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "سفر", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "اسف", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "راس", "direction": "vertical", "startX": 4, "startY": 1},
+        {"word": "سرفراز", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "راز", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "سزار", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "فاز", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "زا", "direction": "horizontal", "startX": 1, "startY": 2},
+        {"word": "فر", "direction": "vertical", "startX": 5, "startY": 4},
+        {"word": "سر", "direction": "vertical", "startX": 3, "startY": 4},
+        {"word": "سار", "direction": "horizontal", "startX": 3, "startY": 4}
       ]
     },
     {
