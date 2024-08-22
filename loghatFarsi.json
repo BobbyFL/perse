@@ -157,11 +157,19 @@
     },
     {
       "levelNumber": 11,
-      "selected": "BRAND",
+      "selected": "استکان",
       "words": [
-        {"word": "BRAND", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "BARN", "direction": "vertical", "startX": 2, "startY": 0},
-        {"word": "RAN", "direction": "vertical", "startX": 4, "startY": 0}
+        {"word": "ساک", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "نکات", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "نت", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "است", "direction": "horizontal", "startX": 5, "startY": 4},
+        {"word": "تک", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "سا", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "استکان", "direction": "horizontal", "startX": 2, "startY": 5}
+        {"word": "اتن", "direction": "horizontal", "startX": 3, "startY": 0},
+        {"word": "ناس", "direction": "horizontal", "startX": 4, "startY": 0},
+        {"word": "نا", "direction": "horizontal", "startX": 4, "startY": 4},
+        {"word": "اسان", "direction": "horizontal", "startX": 4, "startY": 4}
       ]
     },
     {
