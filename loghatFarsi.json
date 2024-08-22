@@ -184,6 +184,7 @@
         {"word": "رپ", "direction": "horizontal", "startX": 1, "startY": 1},
         {"word": "هارون", "direction": "vertical", "startX": 5, "startY": 0},
         {"word": "ره", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "هار", "direction": "horizontal", "startX": 2, "startY": 3},
         {"word": "پارو", "direction": "vertical", "startX": 0, "startY": 1}
       ]
     },
