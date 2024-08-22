@@ -205,11 +205,18 @@
     },
     {
       "levelNumber": 14,
-      "selected": "SHT",
+      "selected": "روزگار",
       "words": [
-        {"word": "SHOUT", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "HUT", "direction": "vertical", "startX": 2, "startY": 2},
-        {"word": "OUT", "direction": "vertical", "startX": 5, "startY": 0}
+        {"word": "روزگار", "direction": "horizontal", "startX": 5, "startY": 5},
+        {"word": "رگ", "direction": "vertical", "startX": 2, "startY": 4},
+        {"word": "راز", "direction": "vertical", "startX": 2, "startY": 0},
+        {"word": "از", "direction": "horizontal", "startX": 2, "startY": 1},
+        {"word": "ور", "direction": "horizontal", "startX": 4, "startY": 3},
+        {"word": "گازر", "direction": "vertical", "startX": 0, "startY": 2},
+        {"word": "گاز", "direction": "horizontal", "startX": 4, "startY": 2},
+        {"word": "گر", "direction": "vertical", "startX": 5, "startY": 4},
+        {"word": "راگو", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "زرگر", "direction": "horizontal", "startX": 5, "startY": 0},
       ]
     },
     {
