@@ -205,7 +205,7 @@
     },
     {
       "levelNumber": 14,
-      "selected": "SHOUT",
+      "selected": "SHT",
       "words": [
         {"word": "SHOUT", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "HUT", "direction": "vertical", "startX": 2, "startY": 2},
