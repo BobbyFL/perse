@@ -190,7 +190,7 @@
     },
     {
       "levelNumber": 13,
-      "selected": "کاوشگر",
+      "selected": "کاوشگرر",
       "words": [
         {"word": "کاوشگر", "direction": "horizontal", "startX": 5, "startY": 1},
         {"word": "اکو", "direction": "vertical", "startX": 5, "startY": 0},
