@@ -297,12 +297,20 @@
     },
     {
       "levelNumber": 19,
-      "selected": "TREND",
+      "selected": "پرستار",
       "words": [
-        {"word": "TREND", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "REND", "direction": "vertical", "startX": 2, "startY": 2},
-        {"word": "RENT", "direction": "vertical", "startX": 4, "startY": 0},
-        {"word": "DENT", "direction": "horizontal", "startX": 2, "startY": 5}
+        {"word": "تر", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "پرستار", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "رپ", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "سا", "direction": "vertical", "startX": 3, "startY": 2},
+        {"word": "را", "direction": "horizontal", "startX": 4, "startY": 4},
+        {"word": "پارس", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "ساتر", "direction": "horizontal", "startX": 5, "startY": 3},
+        {"word": "ارس", "direction": "vertical", "startX": 4, "startY": 3},
+        {"word": "سار", "direction": "vertical", "startX": 2, "startY": 1},
+        {"word": "اس", "direction": "horizontal", "startX": 1, "startY": 4},
+        {"word": "راست", "direction": "vertical", "startX": 0, "startY": 2},
+        {"word": "سر", "direction": "horizontal", "startX": 4, "startY": 5}  
       ]
     },
     {
