@@ -315,12 +315,24 @@
     },
     {
       "levelNumber": 20,
-      "selected": "BLAST",
+      "selected": "مشاوره",
       "words": [
-        {"word": "BLAST", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "LAST", "direction": "vertical", "startX": 2, "startY": 2},
-        {"word": "SALT", "direction": "vertical", "startX": 4, "startY": 2},
-        {"word": "TAB", "direction": "vertical", "startX": 1, "startY": 0}
+        {"word": "روا", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "هوا", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "شو", "direction": "horizontal", "startX": 2, "startY": 0},
+        {"word": "مه", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "رم", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "روا", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "رشوه", "direction": "horizontal", "startX": 4, "startY": 0},
+        {"word": "مشاوره", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "مار", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "مرو", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "ار", "direction": "horizontal", "startX": 4, "startY": 3},
+        {"word": "هار", "direction": "horizontal", "startX": 2, "startY": 2},
+        {"word": "وار", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "مشاور", "direction": "horizontal", "startX": 3, "startY": 3},
+        {"word": "شامه", "direction": "horizontal", "startX": 5, "startY": 5},
+        {"word": "امور", "direction": "horizontal", "startX": 5, "startY": 4}
       ]
     },
     {
