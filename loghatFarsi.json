@@ -260,12 +260,18 @@
     },
     {
       "levelNumber": 17,
-      "selected": "BREAD",
+      "selected": "اعتدال",
       "words": [
-        {"word": "BREAD", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "BAD", "direction": "vertical", "startX": 4, "startY": 1},
-        {"word": "DEAR", "direction": "horizontal", "startX": 0, "startY": 0},
-        {"word": "READ", "direction": "vertical", "startX": 2, "startY": 2}
+        {"word": "اعتدال", "direction": "horizontal", "startX": 5, "startY": 3},
+        {"word": "عدل", "direction": "vertical", "startX": 4, "startY": 3},
+        {"word": "عدالت", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "الات", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "تا", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "علت", "direction": "horizontal", "startX": 2, "startY": 4},
+        {"word": "ات", "direction": "horizontal", "startX": 2, "startY": 5},
+        {"word": "لت", "direction": "vertical", "startX": 0, "startY": 3},
+        {"word": "الت", "direction": "vertical", "startX": 1, "startY": 3},
+        {"word": "دعا", "direction": "vertical", "startX": 2, "startY": 3}
       ]
     },
     {
