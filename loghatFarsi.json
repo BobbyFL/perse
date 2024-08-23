@@ -276,12 +276,23 @@
     },
     {
       "levelNumber": 18,
-      "selected": "CROWN",
+      "selected": "مکافات",
       "words": [
-        {"word": "CROWN", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "CROW", "direction": "vertical", "startX": 1, "startY": 2},
-        {"word": "OWN", "direction": "vertical", "startX": 5, "startY": 0},
-        {"word": "WON", "direction": "vertical", "startX": 4, "startY": 2}
+        {"word": "مکافات", "direction": "vertical", "startX": 1, "startY": 0},
+        {"word": "تف", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "امت", "direction": "horizontal", "startX": 2, "startY": 0},
+        {"word": "کف", "direction": "horizontal", "startX": 1, "startY": 1},
+        {"word": "کم", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "کتف", "direction": "vertical", "startX": 5, "startY": 0},
+        {"word": "ماکت", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "تام", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "فک", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "تا", "direction": "horizontal", "startX": 4, "startY": 3},
+        {"word": "ما", "direction": "horizontal", "startX": 2, "startY": 2},
+        {"word": "فم", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "اتم", "direction": "vertical", "startX": 3, "startY": 3},
+        {"word": "کام", "direction": "horizontal", "startX": 5, "startY": 5},
+        {"word": "تک", "direction": "vertical", "startX": 5, "startY": 4}
       ]
     },
     {
