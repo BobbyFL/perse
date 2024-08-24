@@ -1,0 +1,53 @@
+
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0}
+
+                [1, 1, 1, 1, 1, 1, 0, 0],
+                [1, 1, 1, 1, 1, 1, 0, 0],            
+                [1, 1, 1, 1, 1, 1, 0, 0],
+                [1, 1, 1, 1, 1, 1, 0, 0],
+                [1, 1, 1, 1, 1, 1, 0, 0],
+                [1, 1, 1, 1, 1, 1, 0, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0]
+
+
+
+                [0, 0, 0, 0, 0, 0, 0, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0]
+
+
+                [1, 1, 1, 1, 1, 1, 1, 0],
+                [1, 1, 1, 1, 1, 1, 1, 0],
+                [1, 1, 1, 1, 1, 1, 1, 0],
+                [1, 1, 1, 1, 1, 1, 1, 0],
+                [1, 1, 1, 1, 1, 1, 1, 0],
+                [1, 1, 1, 1, 1, 1, 1, 0],
+                [1, 1, 1, 1, 1, 1, 1, 0],
+                [0, 0, 0, 0, 0, 0, 0, 0]
