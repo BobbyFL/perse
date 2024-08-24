@@ -418,12 +418,20 @@
     },
     {
       "levelNumber": 26,
-      "selected": "SHINE",
+      "selected": "رهاورد",
       "words": [
-        {"word": "SHINE", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "HIS", "direction": "vertical", "startX": 3, "startY": 1},
-        {"word": "SIN", "direction": "vertical", "startX": 1, "startY": 2},
-        {"word": "HEN", "direction": "vertical", "startX": 5, "startY": 1}
+        {"word": "هور", "direction": "horizontal", "startX": 1, "startY": 3},
+        {"word": "وارد", "direction": "horizontal", "startX": 2, "startY": 0},
+        {"word": "داور", "direction": "horizontal", "startX": 0, "startY": 0},
+        {"word": "رد", "direction": "horizontal", "startX": 3, "startY": 4},
+        {"word": "رهاورد", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "روده", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "در", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "ها", "direction": "horizontal", "startX": 5, "startY": 3},
+        {"word": "راه", "direction": "horizontal", "startX": 4, "startY": 2},
+        {"word": "هر", "direction": "horizontal", "startX": 4, "startY": 4},
+        {"word": "دوره", "direction": "horizontal", "startX": 3, "startY": 5},
+        {"word": "دهر", "direction": "horizontal", "startX": 2, "startY": 3}
       ]
     },
     {
