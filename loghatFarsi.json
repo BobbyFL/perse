@@ -593,7 +593,7 @@
     },
     {
       "levelNumber": 36,
-      "selected": "STORM",
+      "selected": "تواریخ",
       "words": [
        {"word": "تار", "direction": "horizontal", "startX": 5, "startY": 0},
        {"word": "ورا", "direction": "horizontal", "startX": 5, "startY": 1},
