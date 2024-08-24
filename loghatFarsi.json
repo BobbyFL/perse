@@ -354,13 +354,17 @@
     },
     {
       "levelNumber": 22,
-      "selected": "CHART",
+      "selected": "شهریور",
       "words": [
-        {"word": "CHART", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "HART", "direction": "vertical", "startX": 3, "startY": 1},
-        {"word": "HAT", "direction": "vertical", "startX": 5, "startY": 0},
-        {"word": "RAT", "direction": "horizontal", "startX": 1, "startY": 4},
-        {"word": "CAR", "direction": "vertical", "startX": 1, "startY": 2}
+        {"word": "رهرو", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "شهریور", "direction": "horizontal", "startX": 5, "startY": 5},
+        {"word": "ری", "direction": "horizontal", "startX": 4, "startY": 1},
+        {"word": "شیر", "direction": "horizontal", "startX": 2, "startY": 2},
+        {"word": "هر", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "شهر", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": " رشوه", "direction": "horizontal", "startX": 5, "startY": 3},
+        {"word": "ور", "direction": "vertical", "startX": 0, "startY": 4},
+        {"word": "شهری", "direction": "vertical", "startX": 2, "startY": 2}
       ]
     },
     {
