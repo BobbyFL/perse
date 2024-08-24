@@ -528,16 +528,16 @@
       "levelNumber": 32,
       "selected": "ارایش",
       "words": [
-       {"word": "ارایش", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "رای", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "یر", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "شیر", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ای", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ریا", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "ریش", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "اریا", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "ری", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "ارش", "direction": "vertical", "startX": 0, "startY": 0}
+       {"word": "ارایش", "direction": "horizontal", "startX": 5, "startY": 2},
+       {"word": "رای", "direction": "horizontal", "startX": 5, "startY": 0},
+       {"word": "یر", "direction": "horizontal", "startX": 4, "startY": 3},
+       {"word": "شیر", "direction": "horizontal", "startX": 4, "startY": 4},
+       {"word": "ای", "direction": "horizontal", "startX": 3, "startY": 5},
+       {"word": "ریا", "direction": "vertical", "startX": 5, "startY": 0},
+       {"word": "ریش", "direction": "vertical", "startX": 4, "startY": 2},
+       {"word": "اریا", "direction": "vertical", "startX": 3, "startY": 2},
+       {"word": "ری", "direction": "vertical", "startX": 2, "startY": 4},
+       {"word": "ارش", "direction": "vertical", "startX": 0, "startY": 3}
       ]
     },
     {
