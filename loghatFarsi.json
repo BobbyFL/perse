@@ -410,7 +410,7 @@
         {"word": "مکر", "direction": "horizontal", "startX": 5, "startY": 4},
         {"word": "تک", "direction": "horizontal", "startX": 2, "startY": 4},
         {"word": "کر", "direction": "vertical", "startX": 0, "startY": 4},
-        {"word": "تمر", "direction": "horizontal", "startX": 4, "startY": 5}
+        {"word": "تمر", "direction": "horizontal", "startX": 4, "startY": 5},
         {"word": "راک", "direction": "horizontal", "startX": 5, "startY": 3},
         {"word": "رام", "direction": "vertical", "startX": 2, "startY": 0},
         {"word": "امارت", "direction": "vertical", "startX": 1, "startY": 0}
