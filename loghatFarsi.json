@@ -382,12 +382,18 @@
     },
     {
       "levelNumber": 24,
-      "selected": "CLEAN",
+      "selected": "گرفتار",
       "words": [
-        {"word": "CLEAN", "direction": "horizontal", "startX": 1, "startY": 2},
-        {"word": "LANE", "direction": "vertical", "startX": 4, "startY": 1},
-        {"word": "LACE", "direction": "vertical", "startX": 1, "startY": 0},
-        {"word": "ACE", "direction": "horizontal", "startX": 2, "startY": 4}
+        {"word": "گرفتار", "direction": "vertical", "startX": 4, "startY": 0},
+        {"word": "رفتار", "direction": "horizontal", "startX": 5, "startY": 2},
+        {"word": "رف", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "اگر", "direction": "horizontal", "startX": 5, "startY": 0},
+        {"word": "تر", "direction": "horizontal", "startX": 1, "startY": 0},
+        {"word": "را", "direction": "vertical", "startX": 0, "startY": 0},
+        {"word": "ارگ", "direction": "vertical", "startX": 2, "startY": 2},
+        {"word": "رفت", "direction": "vertical", "startX": 3, "startY": 0},
+        {"word": "تار", "direction": "vertical", "startX": 0, "startY": 3},
+        {"word": "ار", "direction": "horizontal", "startX": 2, "startY": 5}
       ]
     },
     {
