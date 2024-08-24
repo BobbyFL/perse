@@ -490,7 +490,7 @@
     },
     {
       "levelNumber": 30,
-      "selected": "GLASS",
+      "selected": "مداخله",
       "words": [
        {"word": "اخ", "direction": "vertical", "startX": 2, "startY": 4},
        {"word": "دلمه", "direction": "vertical", "startX": 0, "startY": 2},
