@@ -408,7 +408,7 @@
         {"word": "اکرام", "direction": "horizontal", "startX": 4, "startY": 0},
         {"word": "اما", "direction": "horizontal", "startX": 2, "startY": 1},
         {"word": "مکر", "direction": "horizontal", "startX": 5, "startY": 4},
-        {"word": "تک", "direction": "horizontal", "startX": 2, "startY": 4},
+        {"word": "تک", "direction": "horizontal", "startX": 1, "startY": 4},
         {"word": "کر", "direction": "vertical", "startX": 0, "startY": 4},
         {"word": "تمر", "direction": "horizontal", "startX": 4, "startY": 5},
         {"word": "راک", "direction": "horizontal", "startX": 5, "startY": 3},
