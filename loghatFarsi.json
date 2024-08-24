@@ -358,7 +358,6 @@
       "words": [
         {"word": "رهرو", "direction": "horizontal", "startX": 5, "startY": 0},
         {"word": "شهریور", "direction": "horizontal", "startX": 5, "startY": 5},
-        {"word": "ری", "direction": "horizontal", "startX": 4, "startY": 1},
         {"word": "شیر", "direction": "horizontal", "startX": 2, "startY": 2},
         {"word": "هر", "direction": "vertical", "startX": 4, "startY": 0},
         {"word": "شهر", "direction": "vertical", "startX": 0, "startY": 0},
