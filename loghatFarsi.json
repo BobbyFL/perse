@@ -362,7 +362,7 @@
         {"word": "شیر", "direction": "horizontal", "startX": 2, "startY": 2},
         {"word": "هر", "direction": "vertical", "startX": 4, "startY": 0},
         {"word": "شهر", "direction": "vertical", "startX": 0, "startY": 0},
-        {"word": " رشوه", "direction": "horizontal", "startX": 5, "startY": 3},
+        {"word": "رشوه", "direction": "horizontal", "startX": 5, "startY": 3},
         {"word": "ور", "direction": "vertical", "startX": 0, "startY": 4},
         {"word": "شهری", "direction": "vertical", "startX": 2, "startY": 2}
       ]
