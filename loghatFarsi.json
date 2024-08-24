@@ -386,7 +386,7 @@
       "words": [
         {"word": "گرفتار", "direction": "vertical", "startX": 4, "startY": 0},
         {"word": "رفتار", "direction": "horizontal", "startX": 5, "startY": 2},
-        {"word": "رف", "direction": "horizontal", "startX": 5, "startY": 1},
+        {"word": "رف", "direction": "horizontal", "startX": 4, "startY": 1},
         {"word": "اگر", "direction": "horizontal", "startX": 5, "startY": 0},
         {"word": "تر", "direction": "horizontal", "startX": 1, "startY": 0},
         {"word": "را", "direction": "vertical", "startX": 0, "startY": 0},
