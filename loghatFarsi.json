@@ -368,7 +368,7 @@
     },
     {
       "levelNumber": 23,
-      "selected": "TREES",
+      "selected": "مستحکم",
       "words": [
         {"word": "TREES", "direction": "horizontal", "startX": 1, "startY": 2},
         {"word": "SEER", "direction": "vertical", "startX": 5, "startY": 2},
