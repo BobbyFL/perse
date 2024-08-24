@@ -452,7 +452,7 @@
     },
     {
       "levelNumber": 28,
-    "selected": "فراموش",
+    "selected": "فراموشا",
       "words": [
        {"word": "وش", "direction": "horizontal", "startX": 5, "startY": 1},
        {"word": "شام", "direction": "horizontal", "startX": 5, "startY": 0},
