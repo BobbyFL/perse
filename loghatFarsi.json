@@ -802,7 +802,7 @@
        {"word": "رشوه", "direction": "horizontal", "startX": 5, "startY": 1},
        {"word": "وار", "direction": "horizontal", "startX": 5, "startY": 2},
        {"word": "شه", "direction": "horizontal", "startX": 1, "startY": 2},
-       {"word": "شوهر", "direction": "horizontal", "startX": 5, "startY": 2},
+       {"word": "شوهر", "direction": "horizontal", "startX": 5, "startY": 3},
        {"word": "مهوش", "direction": "horizontal", "startX": 5, "startY": 5},
        {"word": "روش", "direction": "vertical", "startX": 5, "startY": 1},
        {"word": "مشاوره", "direction": "vertical", "startX": 4, "startY": 0},
