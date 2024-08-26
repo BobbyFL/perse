@@ -896,7 +896,7 @@
       "levelNumber": 52,
       "selected": "هگمتانه",
       "words": [
-       {"word": "هگمتانه", "direction": "horizontal", "startX": 6, "startY": 6},
+       {"word": "هگمتانه", "direction": "horizontal", "startX": 7, "startY": 7},
        {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
        {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
        {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
