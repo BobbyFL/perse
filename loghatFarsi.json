@@ -708,20 +708,20 @@
       "levelNumber": 42,
       "selected": "شاهتره",
       "words": [
-       {"word": "شه", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "اتش", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ات", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "شاهتره", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ار", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ره", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "شاه", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "تره", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "شهرت", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "هر", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "ها", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "ترش", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "تار", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "اش", "direction": "vertical", "startX": 0, "startY": 0},
+       {"word": "شه", "direction": "horizontal", "startX": 5, "startY": 0},
+       {"word": "اتش", "direction": "horizontal", "startX": 2, "startY": 0},
+       {"word": "ات", "direction": "horizontal", "startX": 1, "startY": 1},
+       {"word": "شاهتره", "direction": "horizontal", "startX": 5, "startY": 2},
+       {"word": "ار", "direction": "horizontal", "startX": 3, "startY": 3},
+       {"word": "ره", "direction": "horizontal", "startX": 5 "startY": 4},
+       {"word": "شاه", "direction": "horizontal", "startX": 2, "startY": 4},
+       {"word": "تره", "direction": "horizontal", "startX": 5, "startY": 5},
+       {"word": "شهرت", "direction": "vertical", "startX": 5, "startY": 2},
+       {"word": "هر", "direction": "vertical", "startX": 4, "startY": 4},
+       {"word": "ها", "direction": "vertical", "startX": 3, "startY": 2},
+       {"word": "ترش", "direction": "vertical", "startX": 2, "startY": 2},
+       {"word": "تار", "direction": "vertical", "startX": 1, "startY": 0},
+       {"word": "اش", "direction": "vertical", "startX": 1, "startY": 4},
        {"word": "شته", "direction": "vertical", "startX": 0, "startY": 0}
       ]
     },
@@ -739,7 +739,7 @@
        {"word": "پکر", "direction": "vertical", "startX": 4, "startY": 3},
        {"word": "پرش", "direction": "vertical", "startX": 3, "startY": 0},
        {"word": "شکرپاش", "direction": "vertical", "startX": 1, "startY": 0},
-       {"word": "رشک", "direction": "vertical", "startX": 0, "startY": 1}
+       {"word": "رشک", "direction": "vertical", "startX": 0, "startY": 3}
       ]
     },
     {
@@ -803,12 +803,11 @@
        {"word": "وار", "direction": "horizontal", "startX": 5, "startY": 2},
        {"word": "شه", "direction": "horizontal", "startX": 1, "startY": 2},
        {"word": "شوهر", "direction": "horizontal", "startX": 5, "startY": 2},
-       {"word": "مهوش", "direction": "horizontal", "startX": 5, "startY": 4},
+       {"word": "مهوش", "direction": "horizontal", "startX": 5, "startY": 5},
        {"word": "روش", "direction": "vertical", "startX": 5, "startY": 1},
        {"word": "مشاوره", "direction": "vertical", "startX": 4, "startY": 0},
        {"word": "شوره", "direction": "vertical", "startX": 3, "startY": 0},
        {"word": "اه", "direction": "vertical", "startX": 2, "startY": 0},
-       {"word": "روش", "direction": "vertical", "startX": 2, "startY": 3},
        {"word": "هوش", "direction": "vertical", "startX": 0, "startY": 2}
       ]
     },
@@ -875,7 +874,7 @@
     },
     {
       "levelNumber": 51,
-      "selected": "TRADE",
+      "selected": "ماهروی",
       "words": [
        {"word": "هر", "direction": "horizontal", "startX": 5, "startY": 0},
        {"word": "مار", "direction": "horizontal", "startX": 2, "startY": 0},
@@ -886,7 +885,7 @@
        {"word": "روی", "direction": "horizontal", "startX": 4, "startY": 5},
        {"word": "همیرا", "direction": "vertical", "startX": 5, "startY": 0},
        {"word": "رو", "direction": "vertical", "startX": 3, "startY": 1},
-       {"word": "مو", "direction": "vertical", "startX": 3, "startY": 1},
+       {"word": "مو", "direction": "vertical", "startX": 3, "startY": 4},
        {"word": "ماهروی", "direction": "vertical", "startX": 2, "startY": 0},
        {"word": "ای", "direction": "vertical", "startX": 1, "startY": 0},
        {"word": "وی", "direction": "vertical", "startX": 1, "startY": 3},
