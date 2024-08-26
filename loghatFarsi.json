@@ -713,7 +713,7 @@
        {"word": "ات", "direction": "horizontal", "startX": 1, "startY": 1},
        {"word": "شاهتره", "direction": "horizontal", "startX": 5, "startY": 2},
        {"word": "ار", "direction": "horizontal", "startX": 3, "startY": 3},
-       {"word": "ره", "direction": "horizontal", "startX": 5 "startY": 4},
+       {"word": "ره", "direction": "horizontal", "startX": 5, "startY": 4},
        {"word": "شاه", "direction": "horizontal", "startX": 2, "startY": 4},
        {"word": "تره", "direction": "horizontal", "startX": 5, "startY": 5},
        {"word": "شهرت", "direction": "vertical", "startX": 5, "startY": 2},
