@@ -898,23 +898,7 @@
       "words": [
        {"word": "هگمتانه", "direction": "vertical", "startX": 1, "startY": 0},
        {"word": "هتانه", "direction": "horizontal", "startX": 5, "startY": 5},
-       {"word": "تانه", "direction": "horizontal", "startX": 6, "startY": 6},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "ABC", "direction": "horizontal", "startX": 0, "startY": 0}
+       {"word": "تانه", "direction": "horizontal", "startX": 6, "startY": 6}
       ]
     },
     {
