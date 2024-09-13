@@ -958,7 +958,7 @@
        {"word": "سن", "direction": "horizontal", "startX": 1, "startY": 2},
        {"word": "نم", "direction": "horizontal", "startX": 2, "startY": 4},
        {"word": "سان", "direction": "horizontal", "startX": 6, "startY": 5},
-       {"word": "سما", "direction": "horizontal", "startX": 3, "startY": 5},
+       {"word": "سما", "direction": "horizontal", "startX": 2, "startY": 5},
        {"word": "مناسبات", "direction": "horizontal", "startX": 6, "startY": 6}
       ]
     },
