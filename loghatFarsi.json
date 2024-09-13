@@ -928,7 +928,7 @@
        {"word": "فاسد", "direction": "vertical", "startX": 3, "startY": 3},
        {"word": "هفت", "direction": "vertical", "startX": 2, "startY": 4},
        {"word": "فارس", "direction": "horizontal", "startX": 6, "startY": 0},
-       {"word": "ها", "direction": "horizontal", "startX": 0, "startY": 0},
+       {"word": "ها", "direction": "horizontal", "startX": 1, "startY": 0},
        {"word": "رفاه", "direction": "horizontal", "startX": 6, "startY": 1},
        {"word": "دست", "direction": "horizontal", "startX": 2, "startY": 2},
        {"word": "تاسف", "direction": "horizontal", "startX": 6, "startY": 3},
