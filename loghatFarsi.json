@@ -924,7 +924,7 @@
        {"word": "را", "direction": "vertical", "startX": 4, "startY": 0},
        {"word": "سه", "direction": "vertical", "startX": 3, "startY": 0},
        {"word": "استفاده", "direction": "vertical", "startX": 0, "startY": 0},
-       {"word": "اس", "direction": "vertical", "startX": 6 "startY": 5},
+       {"word": "اس", "direction": "vertical", "startX": 6, "startY": 5},
        {"word": "فاسد", "direction": "vertical", "startX": 3, "startY": 3},
        {"word": "هفت", "direction": "vertical", "startX": 2, "startY": 4},
        {"word": "فارس", "direction": "horizontal", "startX": 6, "startY": 0},
