@@ -980,7 +980,7 @@
        {"word": "فراموشی", "direction": "horizontal", "startX": 6, "startY": 0},
        {"word": "روش", "direction": "horizontal", "startX": 6, "startY": 1},
        {"word": "می", "direction": "horizontal", "startX": 6, "startY": 2},
-       {"word": "شر", "direction": "horizontal", "startX": 2, "startY": 2},
+       {"word": "شر", "direction": "horizontal", "startX": 1, "startY": 2},
        {"word": "شرف", "direction": "horizontal", "startX": 5, "startY": 3},
        {"word": "او", "direction": "horizontal", "startX": 4, "startY": 4},
        {"word": "رم", "direction": "horizontal", "startX": 1, "startY": 4},
