@@ -1169,7 +1169,7 @@
        {"word": "خار", "direction": "horizontal", "startX": 2, "startY": 0},
        {"word": "تار", "direction": "horizontal", "startX": 6, "startY": 1},
        {"word": "ریا", "direction": "horizontal", "startX": 2, "startY": 1},
-       {"word": "ری", "direction": "horizontal", "startX": 5, "startY": 3},
+       {"word": "ری", "direction": "horizontal", "startX": 5, "startY": 2},
        {"word": "فرخ", "direction": "horizontal", "startX": 2, "startY": 3},
        {"word": "فر", "direction": "horizontal", "startX": 6, "startY": 4},
        {"word": "اخی", "direction": "horizontal", "startX": 2, "startY": 4},
