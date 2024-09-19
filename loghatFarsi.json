@@ -1246,7 +1246,7 @@
        {"word": "مه", "direction": "horizontal", "startX": 6, "startY": 3},
        {"word": "اهرم", "direction": "horizontal", "startX": 6, "startY": 5},
        {"word": "ارامگاه", "direction": "horizontal", "startX": 6, "startY": 5},
-       {"word": "ارم", "direction": "horizontal", "startX": 3, "startY": 6},
+       {"word": "ارم", "direction": "horizontal", "startX": 2, "startY": 6},
        {"word": "رام", "direction": "vertical", "startX": 6, "startY": 1},
        {"word": "اه", "direction": "vertical", "startX": 6, "startY": 5},
        {"word": "ام", "direction": "vertical", "startX": 5, "startY": 0},
