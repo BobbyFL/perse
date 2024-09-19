@@ -1115,7 +1115,7 @@
        {"word": "روند", "direction": "horizontal", "startX": 4, "startY": 3},
        {"word": "مزور", "direction": "horizontal", "startX": 6, "startY": 4},
        {"word": "رنو", "direction": "horizontal", "startX": 2, "startY": 5},
-       {"word": "زود", "direction": "horizontal", "startX": 2, "startY": 6},
+       {"word": "زود", "direction": "horizontal", "startX": 2, "startY": 6}
        ]
     },
     {
