@@ -1174,7 +1174,6 @@
        {"word": "فر", "direction": "horizontal", "startX": 6, "startY": 4},
        {"word": "اخی", "direction": "horizontal", "startX": 2, "startY": 4},
        {"word": "افت", "direction": "horizontal", "startX": 6, "startY": 5},
-       {"word": "یار", "direction": "horizontal", "startX": 2, "startY": 6},
        {"word": "افات", "direction": "vertical", "startX": 6, "startY": 3},
        {"word": "یار", "direction": "vertical", "startX": 5, "startY": 0},
        {"word": "رف", "direction": "vertical", "startX": 5, "startY": 4},
