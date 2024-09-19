@@ -1292,7 +1292,7 @@
       "selected": "دانشکده",
      "words": [
        {"word": "دان", "direction": "horizontal", "startX": 6, "startY": 0},
-       {"word": "ها", "direction": "horizontal", "startX": 1, "startY": 2},
+       {"word": "ها", "direction": "horizontal", "startX": 1, "startY": 1},
        {"word": "اهن", "direction": "horizontal", "startX": 4, "startY": 2},
        {"word": "شاه", "direction": "horizontal", "startX": 6, "startY": 3},
        {"word": "اشک", "direction": "horizontal", "startX": 2, "startY": 4},
