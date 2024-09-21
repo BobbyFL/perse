@@ -1443,7 +1443,7 @@
        {"word": "انا", "direction": "horizontal", "startX": 5, "startY": 4},
        {"word": "زمستان", "direction": "horizontal", "startX": 5, "startY": 5},
        {"word": "تا", "direction": "vertical", "startX": 5, "startY": 0},
-       {"word": "نار", "direction": "vertical", "startX": 5, "startY": 2},
+       {"word": "ناز", "direction": "vertical", "startX": 5, "startY": 3},
        {"word": "امن", "direction": "vertical", "startX": 4, "startY": 0},
        {"word": "نم", "direction": "vertical", "startX": 4, "startY": 4},
        {"word": "تاس", "direction": "vertical", "startX": 3, "startY": 3},
