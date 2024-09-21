@@ -1541,14 +1541,14 @@
        {"word": "رها", "direction": "horizontal", "startX": 2, "startY": 2},
        {"word": "راه", "direction": "horizontal", "startX": 5, "startY": 5},
        {"word": "اش", "direction": "horizontal", "startX": 1, "startY": 5},
-       {"word": "شاه", "direction": "horizontal", "startX": 5, "startY": 0},
-       {"word": "رش", "direction": "horizontal", "startX": 4, "startY": 0},
-       {"word": "تر", "direction": "horizontal", "startX": 3, "startY": 0},
-       {"word": "اه", "direction": "horizontal", "startX": 3, "startY": 4},
-       {"word": "شر", "direction": "horizontal", "startX": 2, "startY": 1},
-       {"word": "ته", "direction": "horizontal", "startX": 1, "startY": 1},
-       {"word": "شها", "direction": "horizontal", "startX": 0, "startY": 0},
-       {"word": "هش", "direction": "horizontal", "startX": 0, "startY": 4}
+       {"word": "شاه", "direction": "vertical", "startX": 5, "startY": 0},
+       {"word": "رش", "direction": "vertical", "startX": 4, "startY": 0},
+       {"word": "تر", "direction": "vertical", "startX": 3, "startY": 0},
+       {"word": "اه", "direction": "vertical", "startX": 3, "startY": 4},
+       {"word": "شر", "direction": "vertical", "startX": 2, "startY": 1},
+       {"word": "ته", "direction": "vertical", "startX": 1, "startY": 1},
+       {"word": "شها", "direction": "vertical", "startX": 0, "startY": 0},
+       {"word": "هش", "direction": "vertical", "startX": 0, "startY": 4}
       ]
     },
     {
