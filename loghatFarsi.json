@@ -1387,7 +1387,7 @@
        {"word": "امد", "direction": "vertical", "startX": 3, "startY": 2},
        {"word": "ام", "direction": "vertical", "startX": 2, "startY": 0},
        {"word": "لام", "direction": "vertical", "startX": 2, "startY": 2},
-       {"word": "دال", "direction": "vertical", "startX": 2, "startY": 0},
+       {"word": "دال", "direction": "vertical", "startX": 1, "startY": 0},
        {"word": "مداخله", "direction": "vertical", "startX": 0, "startY": 0}
       ]
     },
