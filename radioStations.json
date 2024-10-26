@@ -39,6 +39,55 @@
         "https://n06.radiojar.com/y58cqgggq3quv?rj-ttl=5&rj-tok=AAABkeQhUY8AvrC7TyJqcovGAA",
         "https://n06.radiojar.com/y58cqgggq3quv?rj-ttl=5&rj-tok=AAABkeQhUY8AvrC7TyJqcovGAA"
       ]
-    }
+    },
+{
+      "name": "RadioFive",
+      "priority": false,
+      "links": [
+        "https://www.dropbox.com/scl/fi/h9b0004h7246dx2rjhh73/outputoldies.mp3?rlkey=xlxlsjj4bgfnpir8amvef98pe&st=31cpsx93&raw=1",
+        "https://www.dropbox.com/scl/fi/h9b0004h7246dx2rjhh73/outputoldies.mp3?rlkey=xlxlsjj4bgfnpir8amvef98pe&st=31cpsx93&raw=1",
+        "https://www.dropbox.com/scl/fi/h9b0004h7246dx2rjhh73/outputoldies.mp3?rlkey=xlxlsjj4bgfnpir8amvef98pe&st=31cpsx93&raw=1",
+        "https://www.dropbox.com/scl/fi/h9b0004h7246dx2rjhh73/outputoldies.mp3?rlkey=xlxlsjj4bgfnpir8amvef98pe&st=31cpsx93&raw=1"
+      ]
+    },
+    {
+      "name": "RadioSix",
+      "priority": false,
+      "links": [
+        "https://www.dropbox.com/scl/fi/vueucj6i9khip9xw8906k/outputteainstrumental.mp3?rlkey=aqjw0cttr672uj74dzvdzbm8s&st=6usnwgeq&raw=1",
+        "https://www.dropbox.com/scl/fi/vueucj6i9khip9xw8906k/outputteainstrumental.mp3?rlkey=aqjw0cttr672uj74dzvdzbm8s&st=6usnwgeq&raw=1",
+        "https://www.dropbox.com/scl/fi/vueucj6i9khip9xw8906k/outputteainstrumental.mp3?rlkey=aqjw0cttr672uj74dzvdzbm8s&st=6usnwgeq&raw=1",
+        "https://www.dropbox.com/scl/fi/vueucj6i9khip9xw8906k/outputteainstrumental.mp3?rlkey=aqjw0cttr672uj74dzvdzbm8s&st=6usnwgeq&raw=1"      ]
+    },
+    {
+      "name": "RadioSeven",
+      "priority": false,
+      "links": [
+        "https://www.dropbox.com/scl/fi/cw4aaz318wajkhlhwfvpn/outputwomenIndie.mp3?rlkey=0fyf92xas6b11fpal9lr1i12h&st=w094wnwt&raw=1",
+        "https://www.dropbox.com/scl/fi/cw4aaz318wajkhlhwfvpn/outputwomenIndie.mp3?rlkey=0fyf92xas6b11fpal9lr1i12h&st=w094wnwt&raw=1",
+        "https://www.dropbox.com/scl/fi/cw4aaz318wajkhlhwfvpn/outputwomenIndie.mp3?rlkey=0fyf92xas6b11fpal9lr1i12h&st=w094wnwt&raw=1",
+        "https://www.dropbox.com/scl/fi/cw4aaz318wajkhlhwfvpn/outputwomenIndie.mp3?rlkey=0fyf92xas6b11fpal9lr1i12h&st=w094wnwt&raw=1"
+      ]
+    },
+{
+      "name": "RadioEight",
+      "priority": false,
+      "links": [
+        "https://www.dropbox.com/scl/fi/6mqep4l4h4x8lf8io3t70/volareradio.mp3?rlkey=t7u21bikfpiw1pb8o0va8xk0v&st=sh8e3v74&raw=1",
+        "https://www.dropbox.com/scl/fi/6mqep4l4h4x8lf8io3t70/volareradio.mp3?rlkey=t7u21bikfpiw1pb8o0va8xk0v&st=sh8e3v74&raw=1",
+        "https://www.dropbox.com/scl/fi/6mqep4l4h4x8lf8io3t70/volareradio.mp3?rlkey=t7u21bikfpiw1pb8o0va8xk0v&st=sh8e3v74&raw=1",
+        "https://www.dropbox.com/scl/fi/6mqep4l4h4x8lf8io3t70/volareradio.mp3?rlkey=t7u21bikfpiw1pb8o0va8xk0v&st=sh8e3v74&raw=1"
+      ]
+    },
+    {
+      "name": "RadioNine",
+      "priority": false,
+      "links": [
+        "https://www.dropbox.com/scl/fi/sfcx6cwwxqigjqejxpk0z/yoogin.mp3?rlkey=y248by366khxrc1ahp16nzn09&st=yfk7c72a&raw=1",
+        "https://www.dropbox.com/scl/fi/sfcx6cwwxqigjqejxpk0z/yoogin.mp3?rlkey=y248by366khxrc1ahp16nzn09&st=yfk7c72a&raw=1",
+        "https://www.dropbox.com/scl/fi/sfcx6cwwxqigjqejxpk0z/yoogin.mp3?rlkey=y248by366khxrc1ahp16nzn09&st=yfk7c72a&raw=1",
+        "https://www.dropbox.com/scl/fi/sfcx6cwwxqigjqejxpk0z/yoogin.mp3?rlkey=y248by366khxrc1ahp16nzn09&st=yfk7c72a&raw=1"
+      ]
+    },
   ]
 }
