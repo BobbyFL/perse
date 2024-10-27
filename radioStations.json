@@ -2,7 +2,7 @@
   "radioStations": [
     {
       "name": "RadioOne",
-      "priority": true,
+      "priority": false,
       "links": [
         "https://www.dropbox.com/scl/fi/44aycb9wunbp88asm7c9w/1st-Mixdown-1.mp3?rlkey=mjrtwslygoe703d6bee1ltc61&raw=1",
         "https://www.dropbox.com/scl/fi/44aycb9wunbp88asm7c9w/1st-Mixdown-1.mp3?rlkey=mjrtwslygoe703d6bee1ltc61&raw=1",
@@ -12,7 +12,7 @@
     },
     {
       "name": "RadioTwo",
-      "priority": false,
+      "priority": true,
       "links": [
         "https://www.dropbox.com/scl/fi/ooxjshmwyy06fzf92noo1/outputeftekhar.mp3?rlkey=rj26awwv7f8znr8i7uu4y0jwq&st=ra2mr4fp&raw=1",
         "https://www.dropbox.com/scl/fi/ooxjshmwyy06fzf92noo1/outputeftekhar.mp3?rlkey=rj26awwv7f8znr8i7uu4y0jwq&st=ra2mr4fp&raw=1",
