@@ -89,6 +89,16 @@
         "https://www.dropbox.com/scl/fi/sfcx6cwwxqigjqejxpk0z/yoogin.mp3?rlkey=y248by366khxrc1ahp16nzn09&st=yfk7c72a&raw=1",
         "https://www.dropbox.com/scl/fi/sfcx6cwwxqigjqejxpk0z/yoogin.mp3?rlkey=y248by366khxrc1ahp16nzn09&st=yfk7c72a&raw=1"
       ]
+    },
+    {
+      "name": "RadioTen",
+      "priority": false,
+      "links": [
+        "http://media-ice.musicradio.com/ClassicFMMP3",
+        "http://media-ice.musicradio.com/ClassicFMMP3",
+       "http://media-ice.musicradio.com/ClassicFMMP3",
+       "http://media-ice.musicradio.com/ClassicFMMP3"
+      ]
     }
   ]
 }
