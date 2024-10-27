@@ -94,10 +94,10 @@
       "name": "RadioTen",
       "priority": false,
       "links": [
-        "http://media-ice.musicradio.com/ClassicFMMP3",
-        "http://media-ice.musicradio.com/ClassicFMMP3",
-       "http://media-ice.musicradio.com/ClassicFMMP3",
-       "http://media-ice.musicradio.com/ClassicFMMP3"
+        "https://media-ice.musicradio.com/ClassicFMMP3",
+        "https://media-ice.musicradio.com/ClassicFMMP3",
+       "https://media-ice.musicradio.com/ClassicFMMP3",
+       "https://media-ice.musicradio.com/ClassicFMMP3"
       ]
     }
   ]
