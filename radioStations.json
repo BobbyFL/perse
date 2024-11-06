@@ -12,7 +12,7 @@
     },
     {
       "name": "RadioTwo",
-      "priority": true,
+      "priority": false,
          "links": [
         "https://www.dropbox.com/scl/fi/h9b0004h7246dx2rjhh73/outputoldies.mp3?rlkey=xlxlsjj4bgfnpir8amvef98pe&st=31cpsx93&raw=1",
         "https://www.dropbox.com/scl/fi/h9b0004h7246dx2rjhh73/outputoldies.mp3?rlkey=xlxlsjj4bgfnpir8amvef98pe&st=31cpsx93&raw=1",
@@ -72,7 +72,7 @@
     },
     {
       "name": "RadioEight",
-      "priority": false,
+      "priority": true,
      "links": [
         "https://prod-3-86-26-249.amperwave.net/ppm-jazz24mp3-ibc1?session-id=3582a47f716a87e9f732baf5a1da71d0",
         "https://prod-3-86-26-249.amperwave.net/ppm-jazz24mp3-ibc1?session-id=3582a47f716a87e9f732baf5a1da71d0",
