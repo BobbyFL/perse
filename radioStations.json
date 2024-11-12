@@ -62,7 +62,7 @@
     },
     {
       "name": "RadioSeven",
-      "priority": true,
+      "priority": false,
          "links": [
         "https://www.dropbox.com/scl/fi/6mqep4l4h4x8lf8io3t70/volareradio.mp3?rlkey=t7u21bikfpiw1pb8o0va8xk0v&st=sh8e3v74&raw=1",
         "https://www.dropbox.com/scl/fi/6mqep4l4h4x8lf8io3t70/volareradio.mp3?rlkey=t7u21bikfpiw1pb8o0va8xk0v&st=sh8e3v74&raw=1",
@@ -82,7 +82,7 @@
     },
     {
       "name": "RadioNine",
-      "priority": false,
+      "priority": true,
      "links": [
         "https://media-ice.musicradio.com/ClassicFMMP3",
         "https://media-ice.musicradio.com/ClassicFMMP3",
