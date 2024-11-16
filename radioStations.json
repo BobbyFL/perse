@@ -2,7 +2,7 @@
   "radioStations": [
     {
       "name": "RadioOne",
-      "priority": false,
+      "priority": true,
        "links": [
         "https://www.dropbox.com/scl/fi/ooxjshmwyy06fzf92noo1/outputeftekhar.mp3?rlkey=rj26awwv7f8znr8i7uu4y0jwq&st=ra2mr4fp&raw=1",
         "https://www.dropbox.com/scl/fi/ooxjshmwyy06fzf92noo1/outputeftekhar.mp3?rlkey=rj26awwv7f8znr8i7uu4y0jwq&st=ra2mr4fp&raw=1",
@@ -68,36 +68,6 @@
         "https://www.dropbox.com/scl/fi/6mqep4l4h4x8lf8io3t70/volareradio.mp3?rlkey=t7u21bikfpiw1pb8o0va8xk0v&st=sh8e3v74&raw=1",
         "https://www.dropbox.com/scl/fi/6mqep4l4h4x8lf8io3t70/volareradio.mp3?rlkey=t7u21bikfpiw1pb8o0va8xk0v&st=sh8e3v74&raw=1",
         "https://www.dropbox.com/scl/fi/6mqep4l4h4x8lf8io3t70/volareradio.mp3?rlkey=t7u21bikfpiw1pb8o0va8xk0v&st=sh8e3v74&raw=1"
-      ]
-    },
-    {
-      "name": "RadioEight",
-      "priority": false,
-     "links": [
-        "https://prod-3-86-26-249.amperwave.net/ppm-jazz24mp3-ibc1?session-id=3582a47f716a87e9f732baf5a1da71d0",
-        "https://prod-3-86-26-249.amperwave.net/ppm-jazz24mp3-ibc1?session-id=3582a47f716a87e9f732baf5a1da71d0",
-        "https://prod-3-86-26-249.amperwave.net/ppm-jazz24mp3-ibc1?session-id=3582a47f716a87e9f732baf5a1da71d0",
-        "https://prod-3-86-26-249.amperwave.net/ppm-jazz24mp3-ibc1?session-id=3582a47f716a87e9f732baf5a1da71d0"
-      ]
-    },
-    {
-      "name": "RadioNine",
-      "priority": true,
-     "links": [
-        "https://media-ice.musicradio.com/ClassicFMMP3",
-        "https://media-ice.musicradio.com/ClassicFMMP3",
-       "https://media-ice.musicradio.com/ClassicFMMP3",
-       "https://media-ice.musicradio.com/ClassicFMMP3"
-      ]
-    },
-    {
-      "name": "RadioTen",
-      "priority": false,
-      "links": [
-        "https://n0b.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg",
-        "https://n0b.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg",
-        "https://n0b.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg",
-        "https://n0b.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg"
       ]
     }
   ]
