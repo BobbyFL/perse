@@ -4,10 +4,10 @@
       "name": "RadioOne",
       "priority": false,
        "links": [
-        "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fmoovan%2Fmoovan-playlist-vol1",
-        "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fmoovan%2Fmoovan-playlist-vol1",
-        "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fmoovan%2Fmoovan-playlist-vol1",
-        "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fmoovan%2Fmoovan-playlist-vol1"      ]
+        "https://w.soundcloud.com/player/?url=https://soundcloud.com/moovan/moovan-playlist-vol1&auto_play=true&color=%23ff5500",
+        "https://w.soundcloud.com/player/?url=https://soundcloud.com/moovan/moovan-playlist-vol1&auto_play=true&color=%23ff5500",
+        "https://w.soundcloud.com/player/?url=https://soundcloud.com/moovan/moovan-playlist-vol1&auto_play=true&color=%23ff5500",
+        "https://w.soundcloud.com/player/?url=https://soundcloud.com/moovan/moovan-playlist-vol1&auto_play=true&color=%23ff5500",
     },
     {
       "name": "RadioTwo",
