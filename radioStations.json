@@ -2,7 +2,7 @@
   "radioStations": [
     {
       "name": "RadioOne",
-      "priority": false,
+      "priority": true,
        "links": [
         "https://www.dropbox.com/scl/fi/ow660a9htzrnsz7ya06xd/remix-output.mp3?rlkey=0outi13m0se76e4uqlc76zgg0&st=qwlqgczx&raw=1",
         "https://www.dropbox.com/scl/fi/ow660a9htzrnsz7ya06xd/remix-output.mp3?rlkey=0outi13m0se76e4uqlc76zgg0&st=qwlqgczx&raw=1",
@@ -94,10 +94,10 @@
       "name": "RadioTen",
       "priority": false,
       "links": [
-        "https://n0b.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg1=",
-        "https://n0b.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg1=",
-        "https://n0b.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg1=",
-        "https://n0b.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg1="
+        "https://n0b=-1.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg1=",
+        "https://n0b=-1.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg1=",
+        "https://n0b=-1.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg1=",
+        "https://n0b=-1.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABkd1jmlUAC4Ch_reIf9DEyg1="
       ]
     }
   ]
