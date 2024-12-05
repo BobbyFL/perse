@@ -1091,7 +1091,7 @@
        {"word": "مار", "direction": "vertical", "startX": 5, "startY": 0},
        {"word": "رود", "direction": "vertical", "startX": 4, "startY": 3},
        {"word": "دز", "direction": "vertical", "startX": 4, "startY": 0},
-       {"word": "نور", "direction": "vertical", "startX": 3, "startY": 2},
+       {"word": "نور", "direction": "vertical", "startX": 3, "startY": 2}, 
        {"word": "روان", "direction": "vertical", "startX": 2, "startY": 0},
        {"word": "وارد", "direction": "vertical", "startX": 1, "startY": 0},
        {"word": "رز", "direction": "vertical", "startX": 2, "startY": 5},
