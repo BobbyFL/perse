@@ -1096,7 +1096,6 @@
        {"word": "وارد", "direction": "vertical", "startX": 1, "startY": 0},
        {"word": "رز", "direction": "vertical", "startX": 2, "startY": 5},
        {"word": "نو", "direction": "vertical", "startX": 1, "startY": 5},
-       {"word": "زود", "direction": "vertical", "startX": 0, "startY": 4},
        {"word": "زن", "direction": "vertical", "startX": 0, "startY": 0},
        {"word": "امد", "direction": "horizontal", "startX": 6, "startY": 0},
        {"word": "روز", "direction": "horizontal", "startX": 2, "startY": 0},
@@ -1106,6 +1105,7 @@
        {"word": "نار", "direction": "horizontal", "startX": 3, "startY": 2},
        {"word": "روند", "direction": "horizontal", "startX": 4, "startY": 3},
        {"word": "مزور", "direction": "horizontal", "startX": 6, "startY": 4},
+       {"word": "زود", "direction": "vertical", "startX": 0, "startY": 4},
        {"word": "رنو", "direction": "horizontal", "startX": 2, "startY": 5}
        ]
     },
