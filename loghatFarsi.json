@@ -1094,7 +1094,6 @@
        {"word": "نور", "direction": "vertical", "startX": 3, "startY": 2}, 
        {"word": "روان", "direction": "vertical", "startX": 2, "startY": 0},
        {"word": "وارد", "direction": "vertical", "startX": 1, "startY": 0},
-       {"word": "رز", "direction": "vertical", "startX": 2, "startY": 5},
        {"word": "نو", "direction": "vertical", "startX": 1, "startY": 5},
        {"word": "زن", "direction": "vertical", "startX": 0, "startY": 0},
        {"word": "امد", "direction": "horizontal", "startX": 6, "startY": 0},
