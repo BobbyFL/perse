@@ -742,7 +742,7 @@
     },
     {
       "levelNumber": 44,
-      "selected": "عندلیب",
+      "selected": "عندالیب",
       "words": [
        {"word": "با", "direction": "horizontal", "startX": 5, "startY": 0},
        {"word": "لعب", "direction": "horizontal", "startX": 2, "startY": 0},
