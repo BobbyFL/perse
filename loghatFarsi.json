@@ -1178,7 +1178,7 @@
       "selected": "مشروبات",
      "words": [
        {"word": "تاشو", "direction": "horizontal", "startX": 6, "startY": 0},
-       {"word": "اش", "direction": "horizontal", "startX": 2, "startY": 0},
+       {"word": "اش", "direction": "horizontal", "startX": 1, "startY": 0},
        {"word": "شوراب", "direction": "horizontal", "startX": 6, "startY": 2},
        {"word": "شرم", "direction": "horizontal", "startX": 6, "startY": 4},
        {"word": "تشر", "direction": "horizontal", "startX": 2, "startY": 4},
