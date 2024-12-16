@@ -1296,7 +1296,7 @@
     },
     {
       "levelNumber": 70,
-      "selected": "مستانه",
+      "selected": "امستانه",
      "words": [
        {"word": "مستانه", "direction": "horizontal", "startX": 5, "startY": 0},
        {"word": "نه", "direction": "horizontal", "startX": 3, "startY": 1},
