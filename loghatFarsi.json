@@ -1480,7 +1480,7 @@
     },
     {
       "levelNumber": 79,
-      "selected": "قلمکار",
+      "selected": "قلمکارم",
       "words": [
        {"word": "کم", "direction": "horizontal", "startX": 5, "startY": 0},
        {"word": "قلم", "direction": "horizontal", "startX": 2, "startY": 0},
