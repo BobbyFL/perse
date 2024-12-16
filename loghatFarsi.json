@@ -1240,7 +1240,6 @@
        {"word": "هار", "direction": "vertical", "startX": 5, "startY": 3},
        {"word": "گهر", "direction": "vertical", "startX": 4, "startY": 0},
        {"word": "هاگ", "direction": "vertical", "startX": 4, "startY": 4},
-       {"word": "ارم", "direction": "vertical", "startX": 3, "startY": 3},
        {"word": "مگا", "direction": "vertical", "startX": 2, "startY": 4},
        {"word": "ار", "direction": "vertical", "startX": 1, "startY": 5},
        {"word": "مار", "direction": "vertical", "startX": 0, "startY": 0},
